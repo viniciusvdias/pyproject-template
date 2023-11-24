@@ -6,6 +6,8 @@
 $ make
 ```
 
+This will create a local environment at ```venv```, install versioned dependencies from ```requirements.txt```.
+
 ## Run project ```main.py``` with default arguments
 
 ```
